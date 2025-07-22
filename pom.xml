@@ -19,7 +19,6 @@
       <groupId>io.rest-assured</groupId>
       <artifactId>rest-assured</artifactId>
       <version>5.3.0</version>
-      <scope>test</scope>
     </dependency>
 
     <!-- JSONPath support -->
@@ -27,7 +26,6 @@
       <groupId>io.rest-assured</groupId>
       <artifactId>json-path</artifactId>
       <version>5.3.0</version>
-      <scope>test</scope>
     </dependency>
 
     <!-- JUnit 4 -->
@@ -44,5 +42,12 @@
   <artifactId>jackson-databind</artifactId>
   <version>2.15.3</version>
 </dependency>
+
+<dependency>
+  <groupId>com.github.javafaker</groupId>
+  <artifactId>javafaker</artifactId>
+  <version>1.0.2</version>
+</dependency>
+
   </dependencies>
 </project>
