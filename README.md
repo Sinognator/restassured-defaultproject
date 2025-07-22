@@ -1,4 +1,5 @@
 # RestAssured Default Project
+![Java CI with Maven](https://github.com/Sinognator/restassured-defaultproject/actions/workflows/maven.yml/badge.svg)
 
 Projeto de automação de testes de API usando Java + RestAssured, com boas práticas, organização por camadas e dados dinâmicos via JavaFaker.  
 A API testada é a [Restful Booker](https://restful-booker.herokuapp.com/apidoc/index.html), usada amplamente em testes de automação.
